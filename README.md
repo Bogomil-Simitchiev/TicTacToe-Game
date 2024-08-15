@@ -1,2 +1,2 @@
 # TicTacToe-Game
-Console game created by me
+Console game created with C#
